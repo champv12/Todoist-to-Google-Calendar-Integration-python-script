@@ -1,3 +1,7 @@
+# api key's and auth files
+credentials.json
+token.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +176,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.idea
